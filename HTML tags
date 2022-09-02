@@ -1,0 +1,9 @@
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+// for å legge inn en link i nettsiden - "visit W3Schools" er navnet som vises 
+
+<body style="background-color:powderblue;">
+</body>
+// HTML sin måte å få bakgrunnsfarge
+
+<img src="https://husglede.no/wp-content/uploads/2020/07/Sommerfugl-hovedbilde.jpg.webp" alt="sommerfugl" width="300" height="400">
+// bilde
