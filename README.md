@@ -1,5 +1,9 @@
 # IND-repository
-
+## Mie Maxine M Nord
 yayyy det gikk
 
-Hvordan fjerner jeg DS store fra githuben
+
+| heading | heading | heading | heading | heading | heading |
+| --- | --- | --- | --- | --- | --- |
+| Skriv URL | Skriv URL | Skriv URL | Skriv URL | Skriv URL | Skriv URL |
+
